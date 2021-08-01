@@ -1,0 +1,34 @@
+.logo {
+    width: 90px;
+}
+
+.image-fondo {
+    background-image: url("./img/barber-3.jpg");
+    background-size: cover;
+}
+.cabecera{
+  color: #fff;
+  height: 550px;
+  line-height: 550px;
+  text-align: center;
+  vertical-align: middle;
+  text-shadow: #111 0px 0px 10px;
+}
+
+.empleados {
+  display: flex;
+  height: 100%;
+
+}
+.card {
+  height: 500px;
+  width: 500px;
+  display: inline-block;
+  text-align: center;
+}
+.titulo {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  background: rgb(148, 126, 126);
+}
+
